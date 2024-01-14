@@ -64,3 +64,9 @@ img:hover{
     
 }
 
+#section2{
+    background-color: rgb(36, 48, 48);
+    color: aliceblue;
+    height: 222px;
+    width: 100%;
+}
